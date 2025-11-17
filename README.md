@@ -57,3 +57,4 @@
   - [Scanning ECR images](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning-basic.html#clair-deprecation)
   - [Jorizontal pod autoscaler, on kubernetes.io](kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
   - [Vertical pod autoscaler doc on kubernetes.io](https://kubernetes.io/docs/concepts/workloads/autoscaling/#scaling-workloads-vertically)
+  - [Cluster auto scaler](https://docs.aws.amazon.com/eks/latest/best-practices/cas.html)
