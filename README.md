@@ -15,6 +15,17 @@
 
 ## Day 1 links
 - [12 factor app](https://12factor.net/)
-- [Pods, doc from kubernetes.io](https://kubernetes.io/docs/concepts/workloads/pods/)
-- [Services, from kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/service/)
-- [Kubernetes architecture](https://kubernetes.io/docs/concepts/architecture/)
+- All docs below from kuberentes.io
+  - [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
+  - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
+  - [Kubernetes architecture](https://kubernetes.io/docs/concepts/architecture/)
+  - [Taints and tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+  - [Node affinity and anti-affinity](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#node-affinity)
+  - [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/)
+  - [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+  - [Job](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+  - [Cronjob](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
+  - [Daemonset](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+  - [Replicaset](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+  - [Statefulset](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+  - 
