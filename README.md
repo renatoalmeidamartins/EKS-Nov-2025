@@ -7,3 +7,8 @@
 ## Learning resources
 - [Skill builder](https://skillbuilder.aws/)
 - [Skill builder subscriptions](https://skillbuilder.aws/subscriptions)
+
+## Recommended pre-req classes
+- [Introduction to containers](https://skillbuilder.aws/learn/CUCA1DK47V/introduction-to-containers/XJ58VC1FF5)
+- [Amazon EKS primer](https://skillbuilder.aws/learn/Z521GMBP1J/amazon-eks-primer/NGM5AF9K72)
+- [AWS Cloud Practitioner Essentials](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
