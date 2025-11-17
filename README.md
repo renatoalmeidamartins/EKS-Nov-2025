@@ -58,3 +58,8 @@
   - [Jorizontal pod autoscaler, on kubernetes.io](kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
   - [Vertical pod autoscaler doc on kubernetes.io](https://kubernetes.io/docs/concepts/workloads/autoscaling/#scaling-workloads-vertically)
   - [Cluster auto scaler](https://docs.aws.amazon.com/eks/latest/best-practices/cas.html)
+  - [List of metrics that can be used for scaling](https://kubernetes.io/docs/reference/instrumentation/metrics/)
+  - [Keda - Kubernetes event-driven autoscaler](https://keda.sh/docs/2.18/concepts/#keda-architecture)
+  - [Scalers, way for keda to connect to event sources](https://keda.sh/docs/2.18/scalers/)
+  - [Helm charts available for VPA and Cluster autoscaler](https://github.com/kubernetes/autoscaler/?tab=readme-ov-file)
+  - [In-place vertical pod resizing is beta on 1.33](https://kubernetes.io/blog/2025/05/16/kubernetes-v1-33-in-place-pod-resize-beta/)
