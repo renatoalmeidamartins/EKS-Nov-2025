@@ -42,3 +42,7 @@
     - [Self managed nodes](https://docs.aws.amazon.com/eks/latest/userguide/worker.html)
     - [Fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
     - [Hybrid nodes](https://docs.aws.amazon.com/eks/latest/userguide/hybrid-nodes-overview.html)
+    - [Creating your custom image](https://docs.aws.amazon.com/eks/latest/userguide/eks-ami-build-scripts.html)
+
+  - [Blog discussing EKS blueprints, focusing on the Terraform ones](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
+  - [EKS blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints)
