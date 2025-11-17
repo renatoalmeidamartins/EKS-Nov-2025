@@ -15,3 +15,6 @@
 
 ## Day 1 links
 - [12 factor app](https://12factor.net/)
+- [Pods, doc from kubernetes.io](https://kubernetes.io/docs/concepts/workloads/pods/)
+- [Services, from kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/service/)
+- [Kubernetes architecture](https://kubernetes.io/docs/concepts/architecture/)
