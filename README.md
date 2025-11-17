@@ -52,4 +52,8 @@
     - [Best practices for EKS upgrade](https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html)
     - [Kubernetes currently - Nov, 2025 - supports latest and 2 previous versions](https://kubernetes.io/releases/)
     - [EKS version support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
-    - 
+  - [Using artifactory on EKS](https://aws.amazon.com/blogs/containers/use-private-certificates-to-enable-a-container-repository-in-amazon-eks/)
+  - [Logging in to ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/registry_auth.html)
+  - [Scanning ECR images](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning-basic.html#clair-deprecation)
+  - [Jorizontal pod autoscaler, on kubernetes.io](kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+  - [Vertical pod autoscaler doc on kubernetes.io](https://kubernetes.io/docs/concepts/workloads/autoscaling/#scaling-workloads-vertically)
