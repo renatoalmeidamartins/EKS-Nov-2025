@@ -46,3 +46,10 @@
 
   - [Blog discussing EKS blueprints, focusing on the Terraform ones](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
   - [EKS blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints)
+  - Upgrading clusters
+    - [version skew policy](https://kubernetes.io/releases/version-skew-policy/)
+    - [Steps for Upgrading eks clusters](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html#update-cluster-summary)
+    - [Best practices for EKS upgrade](https://docs.aws.amazon.com/eks/latest/best-practices/cluster-upgrades.html)
+    - [Kubernetes currently - Nov, 2025 - supports latest and 2 previous versions](https://kubernetes.io/releases/)
+    - [EKS version support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
+    - 
