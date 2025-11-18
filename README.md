@@ -74,3 +74,10 @@
   - [CDK hello world](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html)
   - [Construct hub](https://constructs.dev/search?q=&cdk=aws-cdk&cdkver=2&offset=0&tags=aws-published)
   - [CDK8s, applies the same principles of high-level programming language development from the CDK, but producting kubernetes manifests](https://cdk8s.io/)
+- Networking in kubernetes
+  - [DNS for pods and services](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+  - [VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
+  - [CNI - Container network interface](https://github.com/containernetworking/cni?tab=readme-ov-file)
+  - [Security groups for pods, SecurityGroupPolicy resource](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html)
+  - 
+  - 
