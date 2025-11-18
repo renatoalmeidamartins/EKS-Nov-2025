@@ -70,3 +70,7 @@
   - [Allocation strategies for spot instances, Karpenter uses the priceCapacityOptimized](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet-allocation-strategy.html)
   - [Karpenter in use to optimize spot usage](https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/)
   - [Karpenter node pools, where we define all constraints for nodes](https://karpenter.sh/docs/concepts/nodepools/)
+- CDK, use your high level programming language of choice to synthesize your code in CloudFormation templates
+  - [CDK hello world](https://docs.aws.amazon.com/cdk/v2/guide/hello-world.html)
+  - [Construct hub](https://constructs.dev/search?q=&cdk=aws-cdk&cdkver=2&offset=0&tags=aws-published)
+  - [CDK8s, applies the same principles of high-level programming language development from the CDK, but producting kubernetes manifests](https://cdk8s.io/)
