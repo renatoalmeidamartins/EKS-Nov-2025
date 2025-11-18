@@ -44,7 +44,7 @@
   - [Hybrid nodes](https://docs.aws.amazon.com/eks/latest/userguide/hybrid-nodes-overview.html)
   - [Creating your custom image](https://docs.aws.amazon.com/eks/latest/userguide/eks-ami-build-scripts.html)
 - [Blog discussing EKS blueprints, focusing on the Terraform ones](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
-- [EKS blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints)
+- [EKS blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints/)
 - Upgrading clusters
   - [version skew policy](https://kubernetes.io/releases/version-skew-policy/)
   - [Steps for Upgrading eks clusters](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html#update-cluster-summary)
@@ -64,3 +64,9 @@
   - [Scalers, way for keda to connect to event sources](https://keda.sh/docs/2.18/scalers/)
   - [Helm charts available for VPA and Cluster autoscaler](https://github.com/kubernetes/autoscaler/?tab=readme-ov-file)
   - [In-place vertical pod resizing is beta on 1.33](https://kubernetes.io/blog/2025/05/16/kubernetes-v1-33-in-place-pod-resize-beta/)
+## Day 2 links
+- Karpenter
+  - [Best practices, from EKS docs](https://docs.aws.amazon.com/eks/latest/best-practices/karpenter.html)
+  - [Allocation strategies for spot instances, Karpenter uses the priceCapacityOptimized](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet-allocation-strategy.html)
+  - [Karpenter in use to optimize spot usage](https://aws.amazon.com/blogs/compute/applying-spot-to-spot-consolidation-best-practices-with-karpenter/)
+  - [Karpenter node pools, where we define all constraints for nodes](https://karpenter.sh/docs/concepts/nodepools/)
