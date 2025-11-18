@@ -83,4 +83,10 @@
   - [Services in kubernetes.io - ClusterIP, NodePort, LoadBalancer and ExternalName](https://kubernetes.io/docs/concepts/services-networking/service/)
   - [LoadBalancer controller, ingress for AWS](https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.1/how-it-works/)
   - [Alternate CNI plugins on EKS, popular ones are Cilium and Calico](https://docs.aws.amazon.com/eks/latest/userguide/alternate-cni-plugins.html)
-  - 
+- Observability
+  - [Fluentbit outputs](https://docs.fluentbit.io/manual/data-pipeline/outputs)
+  - [X-ray replacement with OTel](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
+  - [Setting up container insights on EKS. Important steps are deploying an observability and a pod identity add-on](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/deploy-container-insights-EKS.html)
+  - [Logging on fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
+- [Pod Identity announcement on EKS](https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
+- 
