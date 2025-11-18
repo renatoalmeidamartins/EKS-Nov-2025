@@ -82,4 +82,5 @@
   - [LoadBalancer service. It can use ip or instance-level target. Can also be NLB or ALB](https://docs.aws.amazon.com/eks/latest/best-practices/load-balancing.html)
   - [Services in kubernetes.io - ClusterIP, NodePort, LoadBalancer and ExternalName](https://kubernetes.io/docs/concepts/services-networking/service/)
   - [LoadBalancer controller, ingress for AWS](https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.1/how-it-works/)
+  - [Alternate CNI plugins on EKS, popular ones are Cilium and Calico](https://docs.aws.amazon.com/eks/latest/userguide/alternate-cni-plugins.html)
   - 
