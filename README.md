@@ -19,7 +19,6 @@
 - All docs below from kuberentes.io
   - [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
   - [Services](https://kubernetes.io/docs/concepts/services-networking/service/)
-  - [Kubernetes architecture](https://kubernetes.io/docs/concepts/architecture/)
   - [Taints and tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
   - [Node affinity and anti-affinity](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#node-affinity)
   - [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/)
