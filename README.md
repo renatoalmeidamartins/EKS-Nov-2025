@@ -79,5 +79,7 @@
   - [VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
   - [CNI - Container network interface](https://github.com/containernetworking/cni?tab=readme-ov-file)
   - [Security groups for pods, SecurityGroupPolicy resource](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html)
-  - 
+  - [LoadBalancer service. It can use ip or instance-level target. Can also be NLB or ALB](https://docs.aws.amazon.com/eks/latest/best-practices/load-balancing.html)
+  - [Services in kubernetes.io - ClusterIP, NodePort, LoadBalancer and ExternalName](https://kubernetes.io/docs/concepts/services-networking/service/)
+  - [LoadBalancer controller, ingress for AWS](https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.1/how-it-works/)
   - 
