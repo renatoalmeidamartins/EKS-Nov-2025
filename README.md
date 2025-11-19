@@ -13,7 +13,7 @@
 ## Contact details
 - email: renatoalmeidamartins@gmail.com
 - [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
-- 
+  
 ## Learning resources
 - [Skill builder](https://skillbuilder.aws/)
 - [Skill builder subscriptions](https://skillbuilder.aws/subscriptions)
