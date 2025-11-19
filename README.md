@@ -105,3 +105,4 @@
   - [awsauth ConfigMap - legacy, deprecated way to authenticate to EKS](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html)
   - [OIDC provider authentication to EKS](https://docs.aws.amazon.com/eks/latest/userguide/authenticate-oidc-identity-provider.html)
   - [Using Entra as an OIDC provider to authenticate to EKS](https://aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
+  - [Pod Identites, replacement for IRSA - IAM Roles for Service Accounts](https://aws.amazon.com/blogs/containers/amazon-eks-pod-identity-a-new-way-for-applications-on-eks-to-obtain-iam-credentials/)
