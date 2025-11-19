@@ -17,6 +17,7 @@
 ## Learning resources
 - [Skill builder](https://skillbuilder.aws/)
 - [Skill builder subscriptions](https://skillbuilder.aws/subscriptions)
+- [EKS Workshops](https://workshops.aws/categories/EKS)
 
 ## Recommended pre-req classes
 - [Introduction to containers](https://skillbuilder.aws/learn/CUCA1DK47V/introduction-to-containers/XJ58VC1FF5)
