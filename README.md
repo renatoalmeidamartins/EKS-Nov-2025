@@ -83,6 +83,7 @@
   - [Services in kubernetes.io - ClusterIP, NodePort, LoadBalancer and ExternalName](https://kubernetes.io/docs/concepts/services-networking/service/)
   - [LoadBalancer controller, ingress for AWS](https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.1/how-it-works/)
   - [Alternate CNI plugins on EKS, popular ones are Cilium and Calico](https://docs.aws.amazon.com/eks/latest/userguide/alternate-cni-plugins.html)
+  - [Network policies on kubernetes.io](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 - Observability
   - [Fluentbit outputs](https://docs.fluentbit.io/manual/data-pipeline/outputs)
   - [X-ray replacement with OTel](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
