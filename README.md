@@ -97,3 +97,11 @@
 - [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
 - [Rotation lambdas for secrets manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [Secrets provider CSI driver](https://github.com/aws/secrets-store-csi-driver-provider-aws)
+- Security
+  - [OWASP Container security cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)\
+  - [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
+  - [Pod Security Admission](https://kubernetes.io/docs/concepts/security/pod-security-admission/)
+  - [EKS access entries - the supported way to authenticate to EKS](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
+  - [awsauth ConfigMap - legacy, deprecated way to authenticate to EKS](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html)
+  - [OIDC provider authentication to EKS](https://docs.aws.amazon.com/eks/latest/userguide/authenticate-oidc-identity-provider.html)
+  - [Using Entra as an OIDC provider to authenticate to EKS](https://aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
