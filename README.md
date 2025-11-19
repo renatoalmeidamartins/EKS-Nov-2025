@@ -91,5 +91,9 @@
   - [Logging on fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
 - [Pod Identity announcement on EKS](https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
 - [Storage classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
+## Day 3 links
 - [CSI - the container interface for storage, supporting multiple drivers, among others EBS - announcement](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
 - [EBS CSI](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+- [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
+- [Rotation lambdas for secrets manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- [Secrets provider CSI driver](https://github.com/aws/secrets-store-csi-driver-provider-aws)
