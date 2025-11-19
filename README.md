@@ -90,4 +90,6 @@
   - [Setting up container insights on EKS. Important steps are deploying an observability and a pod identity add-on](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/deploy-container-insights-EKS.html)
   - [Logging on fargate](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
 - [Pod Identity announcement on EKS](https://aws.amazon.com/blogs/aws/amazon-eks-pod-identity-simplifies-iam-permissions-for-applications-on-amazon-eks-clusters/)
-- 
+- [Storage classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
+- [CSI - the container interface for storage, supporting multiple drivers, among others EBS - announcement](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
+- [EBS CSI](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
